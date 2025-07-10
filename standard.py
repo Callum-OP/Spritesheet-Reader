@@ -27,24 +27,15 @@ def read_coordinates(json_path):
             # Store each in list
             animations[prefix].append((number, frame["frame"], filename))
 
-    # Function to display all coordinates
-    def format_coords(entry):
-        frame = entry[1]
-        return {
-            "x": frame["x"],
-            "y": frame["y"]
-    }
-
     # Display all frames and their coordinates
     for anim, coords in animations.items():
         # Sort by frame number, getting the first and last frames
         sorted_coords = sorted(coords, key=lambda x: x[0])
         first_frame = sorted_coords[0]
         last_frame = sorted_coords[-1]
-
-        print(f"{anim}:")
-        print("  First Frame:", format_coords(first_frame))
-        print("  Last Frame: ", format_coords(last_frame))
+        # Display all start and end coordinates
+        print(f"{anim}XStart =", first_frame[1]["x"], f"{anim}YStart =", first_frame[1]["y"])
+        print(f"{anim}XEnd =", last_frame[1]["x"], f"{anim}YEnd =", last_frame[1]["y"])
         print()
 
 # Call function
