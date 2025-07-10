@@ -11,5 +11,6 @@ It reads from a json data file, similar to ones you would get from sites such as
 There are two options available, one is designed for TexturePacker Online (the free one) by codeandweb, the other is designed for Texture Atlas Generator by Umesh-KC but it will also work on similar json files. There is also a file designed for the Texture Atlas Generator which lists the coordinate values for every texture.
 
 # Example Output
-![image](https://github.com/user-attachments/assets/91f2496b-3d3d-4b24-988e-53650bff3128)
+<img width="1282" height="595" alt="image" src="https://github.com/user-attachments/assets/a67e8ad1-544b-4346-a8c1-4f89746e813e" />
+
 
