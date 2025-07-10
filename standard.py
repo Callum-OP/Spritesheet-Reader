@@ -34,9 +34,7 @@ def read_coordinates(json_path):
         first_frame = sorted_coords[0]
         last_frame = sorted_coords[-1]
         # Display all start and end coordinates
-        print(f"{anim}XStart =", first_frame[1]["x"], f"{anim}YStart =", first_frame[1]["y"])
-        print(f"{anim}XEnd =", last_frame[1]["x"], f"{anim}YEnd =", last_frame[1]["y"])
-        print()
+        print(f"{anim}XStart =", first_frame[1]["x"], f"{anim}YStart =", first_frame[1]["y"], f"{anim}XEnd =", last_frame[1]["x"], f"{anim}YEnd =", last_frame[1]["y"])
 
 # Call function
 read_coordinates("spritesheet.json")
