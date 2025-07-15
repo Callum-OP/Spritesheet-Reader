@@ -10,6 +10,7 @@ I have changed the code from Python to JavaScript to make it easier to host so t
 
 # Example Output
 <img width="1867" height="868" alt="image" src="https://github.com/user-attachments/assets/2cec293f-7f2c-4552-a6dc-c0c180fe03f7" />
+<img width="1867" height="868" alt="image" src="https://github.com/user-attachments/assets/5b5b0cb3-5cb4-44fe-a8b0-4cde8df13dbd" />
 
 
 
