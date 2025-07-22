@@ -1,5 +1,5 @@
 # How to run
-Just open the site on the index page and enter your desired json data file, it will automatically give output.
+Just open the site on the index page (https://callum-op.github.io/Spritesheet-Reader/) and enter your desired json data file, it will automatically give output.
 
 # About the app
 I made this to make it easier to store start and end coordinate values for animations in my game when I change the spritesheet.
