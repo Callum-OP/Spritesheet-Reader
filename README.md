@@ -9,7 +9,7 @@ It reads from a json data file, similar to ones you would get from sites such as
 I have changed the code from Python to JavaScript to make it easier to host so that I can access this site much more easily when I need it. I have included the old files in a seperate folder.
 
 # Example Output
-<img width="1867" height="868" alt="image" src="https://github.com/user-attachments/assets/2cec293f-7f2c-4552-a6dc-c0c180fe03f7" />
+<img width="1867" height="868" alt="image" src="https://github.com/user-attachments/assets/2652d27f-d1b0-4582-84b8-256f19f0a2c4" />
 <img width="1867" height="868" alt="image" src="https://github.com/user-attachments/assets/5b5b0cb3-5cb4-44fe-a8b0-4cde8df13dbd" />
 
 
